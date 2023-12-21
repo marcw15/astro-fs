@@ -11,14 +11,13 @@
   },
   "dependencies": {
     "@astrojs/node": "^7.0.2",
-    "@fontsource/inter": "^5.0.16",
+    "@supabase/ssr": "^0.0.10",
     "@supabase/supabase-js": "^2.39.1",
+    "@supabase/ui": "^0.36.5",
     "astro": "^4.0.7",
-    "astro-feather-icons": "^1.0.2",
-    "astro-icon": "^0.8.2",
-    "astro-navbar": "^2.3.0",
-    "astro-seo": "^0.8.0",
-    "astrojs-image-ssr-fix": "^1.0.1",
     "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5"
   }
 }
